@@ -17,7 +17,7 @@
     <title>Search</title>
 </head>
 <body>
-    <form method='post' action='register.php'>
+    <form method='post' action=''>
         <div class="content">
             <div class="search">
                 <table class="table"> 
@@ -51,7 +51,7 @@
         
             <div class="number">Số sinh viên tìm thấy: XXX</div>
             <div class="add">
-                <button class="action_add" type="submit">Thêm</button>
+                <button class="action_add" type="submit"><a herf="register.php>">Thêm</button>
             </div>
         
             <div class="show">
@@ -67,7 +67,7 @@
                                 <th scope="col">Action</th>
                             </tr>      
                             <tr class="tr">
-                                <th>1</th>
+                                <td>1</td>
                                 <td>Nguyễn Văn A</td>
                                 <td>Khoa học máy tính</td>
                                 <td></td>
@@ -77,7 +77,7 @@
                                 <td class="td_action">Sửa</td>
                             </tr>
                             <tr class="tr">
-                                <th>2</th>
+                                <td>2</td>
                                 <td>Trần Thị B</td>
                                 <td>Khoa học máy tính</td>
                                 <td></td>
@@ -87,7 +87,7 @@
                                 <td class="td_action">Sửa</td>
                             </tr>
                             <tr class="tr">
-                                <th>3</th>
+                                <td>3</td>
                                 <td>Nguyễn Hoàng C</td>
                                 <td>Khoa học vật liệu</td>
                                 <td></td>
@@ -97,7 +97,7 @@
                                 <td class="td_action">Sửa</td>
                             </tr>
                             <tr class="tr">
-                                <th>4</th>
+                                <td>4</td>
                                 <td>Định Quang D</td>
                                 <td>Khoa học vật liệu</td>
                                 <td></td>
