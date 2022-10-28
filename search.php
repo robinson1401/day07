@@ -1,10 +1,6 @@
 <?php 
     $khoa = array("" => "", "MAT" => "Khoa học máy tính", "KDL" => "Khoa học vật liệu");
-    if (isset($_POST['submit'])) {
-        session_start();
-        $_SESSION["keyword"] = "";
-        header('Location: register.php');
-    }
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -51,7 +47,7 @@
         
             <div class="number">Số sinh viên tìm thấy: XXX</div>
             <div class="add">
-                <button class="action_add" type="submit"><a herf="register.php>">Thêm</button>
+                <a herf="register.php">Thêm</a>
             </div>
         
             <div class="show">
