@@ -21,7 +21,7 @@ button {
     /* font-family  : Arial, Helvetica, sans-serif; */
 }
 
-.search>button {
+a {
     background-color: #61a7e4;
     color           : #f0f0f0;
     border          : #41719c solid;
@@ -30,7 +30,6 @@ button {
     height          : 43px;
     margin-left     : 90px;
     text-align      : center;
-
 }
 
 
