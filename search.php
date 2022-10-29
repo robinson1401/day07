@@ -47,7 +47,7 @@
         
             <div class="number">Số sinh viên tìm thấy: XXX</div>
             <div class="add">
-                <a herf="register.php">Thêm</a>
+                <button><a herf="register.php">Thêm</a></button>
             </div>
         
             <div class="show">
