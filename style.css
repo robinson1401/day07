@@ -22,14 +22,8 @@ button {
 }
 
 a {
-    background-color: #61a7e4;
-    color           : #f0f0f0;
-    border          : #41719c solid;
-    border-radius   : 10px;
-    width           : 150px;
-    height          : 43px;
-    margin-left     : 90px;
-    text-align      : center;
+   text-decoration: none;
+   color          : #f0f0f0;
 }
 
 
